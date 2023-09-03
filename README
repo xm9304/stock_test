@@ -1,0 +1,7 @@
+pyuic5 -x D:\Project\外包\20230107_通信达数据处理\main.ui -o D:\Project\外包\20230107_通信达数据处理\main_ui.py
+E:/new_tdx
+D:/Project/外包/20230126_股票数据处理3
+20221001
+20230101
+sz160135.day
+wx:18825162221
